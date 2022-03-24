@@ -1,0 +1,194 @@
+City,Lat,Long,country,iso2,State,REGD NO,First name,Middle name,Last Name,GENDER
+Abohar,30.144533,74.19552,India,IN,Punjab,3.18127E+11,Abhishek,,Tolada,Male
+Adilabad,19.4,78.31,India,IN,Telangana,3.18127E+11,Yeswanth,Sai Kumar,Addanki,Male
+Agartala,23.836049,91.279386,India,IN,Tripura,3.18127E+11,Vamsi,,Adikatti,Male
+Agra,27.187935,78.003944,India,IN,Uttar Pradesh,3.18127E+11,Tarun,,Akasapu,Male
+Ahmadnagar,19.094571,74.738432,India,IN,Maharashtra,3.18127E+11,Aneel,Kumar,Pinninti,Male
+Ahmedabad,23.025793,72.587265,India,IN,Gujarat,3.18127E+11,Pranav,,Anyapu,Male
+Aizawl  ,23.736701,92.714596,India,IN,Mizoram,3.18127E+11,Anjith,Chowdary,Appasani,Male
+Ajmer,26.452103,74.638667,India,IN,Rajasthan,3.18127E+11,Uma,Maheswari,Balabomma,Female
+Akola,20.709569,76.998103,India,IN,Maharashtra,3.18127E+11,Pavan Sai Reddy,Bhimavarapu,Bhimavarapu,Male
+Alappuzha,9.494647,76.331108,India,IN,Kerala,3.18127E+11,Sravani,Biddika,Biddika,Female
+Aligarh,27.881453,78.07464,India,IN,Uttar Pradesh,3.18127E+11,Shanmuk,Arun,Bikkavolu,Male
+Alipurduar,26.4835,89.522855,India,IN,West Bengal,3.18127E+11,Venkat,Sai Kishore,Bobbadhi,Male
+Allahabad,25.44478,81.843217,India,IN,Uttar Pradesh,3.18127E+11,Naga Mythili,,Bonthu,Female
+Alwar,27.566291,76.610202,India,IN,Rajasthan,3.18127E+11,Nikhil,Sai Kumar,Botta,Male
+Ambala,30.360993,76.797819,India,IN,Haryana,3.18127E+11,Ramya,,Budda,Female
+Amaravati,20.933272,77.75152,India,IN,Maharashtra,3.18127E+11,Vt Nns Sreekar,Teja,Chavali,Male
+Amritsar,31.622337,74.875335,India,IN,Punjab,3.18127E+11,P D Gopal Krishna,Reddy,Gorisi,Male
+Asansol,23.683333,86.983333,India,IN,West Bengal,3.18127E+11,Tanishk Venkat,Mahesh Babu,Gali,Male
+Aurangabad,19.880943,75.346739,India,IN,Maharashtra,3.18127E+11,Vijay Satvik,,Gundala,Male
+Aurangabad,24.752037,84.374202,India,IN,Bihar,3.18127E+11,Sanjusha,,Gundu,Female
+Bakshpur,25.894283,80.792104,India,IN,Uttar Pradesh,3.18127E+11,Omkar,,Javvadi,Male
+Bamanpuri,28.804495,79.040305,India,IN,Uttar Pradesh,3.18127E+11,Srikar,Sai Ganesh,Jonnalagadda,Male
+Baramula,34.209004,74.342853,India,IN,Jammu and Kashmir,3.18127E+11,Jyothi,Sreemayee,Vuppala,Female
+Barddhaman,23.255716,87.856906,India,IN,West Bengal,3.18127E+11,Leela Prasad,,Kalla,Male
+Bareilly,28.347023,79.421934,India,IN,Uttar Pradesh,3.18127E+11,Naga Mahesh,Naga Mahesh,Katta,Male
+Belgaum,15.862643,74.508534,India,IN,Karnataka,3.18127E+11,Kaushik,Muddamsetti,Muddamsetti,Male
+Bellary,15.142049,76.92398,India,IN,Karnataka,3.18127E+11,Kiran,Prakash,Kodali,Male
+Bengaluru,12.977063,77.587106,India,IN,Karnataka,3.18127E+11,Subba,Reddy,Kondapalli,Male
+Bhagalpur,25.244462,86.971832,India,IN,Bihar,3.18127E+11,Uday,Kumar,Kotla,Male
+Bharatpur,27.215251,77.492786,India,IN,Rajasthan,3.18127E+11,Benarji,,Koulury,Male
+Bharauri,27.598203,81.694709,India,IN,Uttar Pradesh,3.18127E+11,Jyothsna,,Lenka,Female
+Bhatpara,22.866431,88.401129,India,IN,West Bengal,3.18127E+11,Lohitha,,Machavarapu,Female
+Bhavnagar,21.774455,72.152496,India,IN,Gujarat,3.18127E+11,Neeraj,Kumar,Madiki,Male
+Bhilai,21.209188,81.428497,India,IN,Chhattisgarh,3.18127E+11,Nuthana,,Madugula,Female
+Bhilwara,25.347071,74.640812,India,IN,Rajasthan,3.18127E+11,Sunila,,Madugula,Female
+Bhiwandi,19.300229,73.058813,India,IN,Maharashtra,3.18127E+11,Baby,Prasanthi,Mandalapu,Female
+Bhiwani,28.793044,76.13968,India,IN,Haryana,3.18127E+11,Lohith,,Mothika,Male
+Bhopal ,23.254688,77.402892,India,IN,Madhya Pradesh,3.18127E+11,Satya Kalyani,,Nakka,Female
+Bhubaneshwar,20.272411,85.833853,India,IN,Odisha,3.18127E+11,Christina,Preethi,Nelapudi,Female
+Bhuj,23.253972,69.669281,India,IN,Gujarat,3.18127E+11,Sandeep,,Neredumalli,Male
+Bhusaval,21.043649,75.785058,India,IN,Maharashtra,3.18127E+11,Tejaswi,V L,Nidumolu,Female
+Bidar,17.913309,77.530105,India,IN,Karnataka,3.18127E+11,Swetha,S N,Nunela,Female
+Bijapur,16.827715,75.718988,India,IN,Karnataka,3.18127E+11,Dharani,,Polavarapu,Female
+Bikaner,28.017623,73.314955,India,IN,Rajasthan,3.18127E+11,Pranav,Chandra,Paruchuri,Male
+Bilaspur,22.080046,82.155431,India,IN,Chhattisgarh,3.18127E+11,Akash,,Raghupatruni,Male
+Brahmapur,19.311514,84.792903,India,IN,Odisha,3.18127E+11,Deepika,,Ravva,Female
+Budaun,28.038114,79.126677,India,IN,Uttar Pradesh,3.18127E+11,Niharika,,Salapu,Female
+Bulandshahr,28.403922,77.857731,India,IN,Uttar Pradesh,3.18127E+11,Ajay,Varma,Saripilla,Male
+Calicut,11.248016,75.780402,India,IN,Kerala,3.18127E+11,Phani,Kumar,Jasti,Male
+Chanda,19.950758,79.295229,India,IN,Maharashtra,3.18127E+11,Prem,Sagar,Sontena,Male
+Chandigarh ,30.736292,76.788398,India,IN,Chandigarh,3.18127E+11,Akhilesh,,Tanneedi,Male
+Chennai,13.084622,80.248357,India,IN,Tamil Nadu ,3.18127E+11,Tanooja,,Kosuru,Female
+Chikka Mandya,12.545602,76.895078,India,IN,Karnataka,3.18127E+11,Tejasri,,Karri,Female
+Chirala,15.823849,80.352187,India,IN,Andhra Pradesh,3.18127E+11,Vineetha,Sai Durga,Thaninki,Female
+Coimbatore,11.005547,76.966122,India,IN,Tamil Nadu ,3.18127E+11,Anusha,,Vadada,Female
+Cuddalore,11.746289,79.764362,India,IN,Tamil Nadu ,3.18127E+11,Harshit,Mouli,Vaddadi,Male
+Cuttack,20.522922,85.78813,India,IN,Odisha,3.18127E+11,Kalyan,,Vanne,Male
+Daman,20.414315,72.83236,India,IN,Daman and Diu,3.18127E+11,Parimala,,Vasipalli,Female
+Davangere,14.469237,75.92375,India,IN,Karnataka,3.18127E+11,Divya,,Veyyidhalamula,Female
+DehraDun,30.324427,78.033922,India,IN,Uttarakhand,3.18127E+11,Sai,Sowjanya,Yerra,Female
+Delhi,28.651952,77.231495,India,IN,Delhi,3.18127E+11,Goutham,Sai Pavan,Adari,Male
+Dhanbad,23.801988,86.443244,India,IN,Jharkhand,3.18127E+11,Akriti,,Sinha,Female
+Dibrugarh,27.479888,94.90837,India,IN,Assam,3.18127E+11,Umamaheswara,Reddy,Alavala,Male
+Dindigul,10.362853,77.975827,India,IN,Tamil Nadu ,3.18127E+11,Darshan,,Barre,Male
+Dispur,26.135638,91.800688,India,IN,Assam,3.18127E+11,Sai,Shankar,Bogi,Male
+Diu,20.715115,70.987952,India,IN,Daman and Diu,3.18127E+11,Pravallika,,Boni,Female
+Faridabad,28.411236,77.313162,India,IN,Haryana,3.18127E+11,Bharat,Teja,Chodavarapu,Male
+Firozabad,27.150917,78.397808,India,IN,Uttar Pradesh,3.18127E+11,Anil,Kumar,Dakarapu,Male
+Fyzabad,26.775486,82.150182,India,IN,Uttar Pradesh,3.18127E+11,Yamini,Krishna,Damarla,Female
+Gangtok,27.325739,88.612155,India,IN,Sikkim,3.18127E+11,Mahendra,Tulasi Kumar,Dasari,Male
+Gaya,24.796858,85.003852,India,IN,Bihar,3.18127E+11,Sai Rohit,Varma,Datla,Male
+Ghandinagar,23.216667,72.683333,India,IN,Gujarat,3.18127E+11,Jagadeesh,,Desetti,Male
+Ghaziabad,28.665353,77.439148,India,IN,Uttar Pradesh,3.18127E+11,Pavan,Teja,Galla,Male
+Gopalpur,26.735389,83.38064,India,IN,Uttar Pradesh,3.18127E+11,Abhi,Ram,Gatreddi,Male
+Gulbarga,17.335827,76.83757,India,IN,Karnataka,3.18127E+11,Somasekhar,,Illa,Male
+Guntur,16.299737,80.457293,India,IN,Andhra Pradesh,3.18127E+11,Abhi,Ram,Ivvala,Male
+Gurugram,28.460105,77.026352,India,IN,Haryana,3.18127E+11,Chandra,Sekhar,Jalluri,Male
+Guwahati,26.176076,91.762932,India,IN,Assam,3.18127E+11,Lokesh,,Kari,Male
+Gwalior,26.229825,78.173369,India,IN,Madhya Pradesh,3.18127E+11,Sneha,kiran,Konchada,Female
+Haldia,22.025278,88.058333,India,IN,West Bengal,3.18127E+11,Prathyusha,,Korra,Female
+Haora,22.576882,88.318566,India,IN,West Bengal,3.18127E+11,Himanush,,Kurakula,Male
+Hapur,28.729845,77.780681,India,IN,Uttar Pradesh,3.18127E+11,Vinay,Sri Venkatesh,Lakkadasu,Male
+Haripur,31.463218,75.986418,India,IN,Punjab,3.18127E+11,Vamsi,Krishna,Logisa,Male
+Hata,27.592698,78.013843,India,IN,Uttar Pradesh,3.18127E+11,Bhaskar,,Madabattula,Male
+Hindupur,13.828065,77.491425,India,IN,Andhra Pradesh,3.18127E+11,Manoj,Kumar,Madhavarupu,Male
+Hisar,29.153938,75.722944,India,IN,Haryana,3.18127E+11,Yaswanth,,Maguluri,Male
+Hospet,15.269537,76.387103,India,IN,Karnataka,3.18127E+11,Dineshwar,,Manukonda,Male
+Hubli,15.349955,75.138619,India,IN,Karnataka,3.18127E+11,Rajasri,,Marisa,Female
+Hyderabad,17.384052,78.456355,India,IN,Telangana,3.18127E+11,Sushma,,Metta,Female
+Imphal,24.808053,93.944203,India,IN,Manipur,3.18127E+11,Abdul,Aziz,Mohammad,Male
+Indore,22.717736,75.85859,India,IN,Madhya Pradesh,3.18127E+11,Riyaz Ali,,Mohammad,Male
+Itanagar,27.102349,93.692047,India,IN,Arunachal Pradesh,3.18127E+11,Yazaz,Rehman,Mohammad,Male
+Jabalpur,23.174495,79.935903,India,IN,Madhya Pradesh,3.18127E+11,Divya,Teja,Motamarri,Male
+Jaipur,26.913312,75.787872,India,IN,Rajasthan,3.18127E+11,Mohan,Reddy,Nallamilli,Male
+Jammu,32.735686,74.869112,India,IN,Jammu and Kashmir,3.18127E+11,Prudhvi,Raj,Nammi,Male
+Jamshedpur,22.802776,86.185448,India,IN,Jharkhand,3.18127E+11,Sai,Chaitanya Reddy,Neelapu,Male
+Jhansi,25.458872,78.579943,India,IN,Uttar Pradesh,3.18127E+11,Vidhya Sagar,Netti,Sagar,Male
+Jodhpur,26.26841,73.005943,India,IN,Rajasthan,3.18127E+11,Rakesh,,Pithani,Male
+Jorhat,26.757509,94.203055,India,IN,Assam,3.18127E+11,Hari,Prasad,Putta,Male
+Kagaznagar,19.331589,79.466051,India,IN,Andhra Pradesh,3.18127E+11,Vennela,,Pydisetty,Female
+Kakinada,16.960361,82.238086,India,IN,Andhra Pradesh,3.18127E+11,Nagasai,,Repalle,Male
+Kalyan,19.243703,73.135537,India,IN,Maharashtra,3.18127E+11,Ruchita,,Podugu,Female
+Karimnagar,18.436738,79.13222,India,IN,Telangana,3.18127E+11,Sai,Sampath,Kosaraju,Male
+Karnal,29.691971,76.984483,India,IN,Haryana,3.18127E+11,Bhanu,Prakash,Sakkuri,Male
+Karur,10.960277,78.076753,India,IN,Tamil Nadu ,3.18127E+11,Aiswarya,,Seepana,Female
+Kavaratti,10.566667,72.616667,India,IN,Lakshadweep,3.18127E+11,Shaik,Zohra Nasreen,Shaik,Female
+Khammam,17.247672,80.143682,India,IN,Telangana,3.18127E+11,Vamsi,Kiran,Simhadri,Male
+Khanapur,21.273716,76.117376,India,IN,Maharashtra,3.18127E+11,Lokesh,Kumar,Simma,Male
+Kochi,9.947743,76.253802,India,IN,Kerala,3.18127E+11,Sri,Hanish,Yedla,Male
+Kohima,25.674673,94.110988,India,IN,Nagaland,3.18127E+11,Jyothi Priya,,Sureddi,Female
+Kolar,13.137679,78.129989,India,IN,Karnataka,3.18127E+11,Venkata Soma,Lingeswara Rao,Tutika,Male
+Kolhapur,16.695633,74.231669,India,IN,Maharashtra,3.18127E+11,Ranjit,,Varikuti,Male
+Kolkata ,22.562627,88.363044,India,IN,West Bengal,3.18127E+11,Revanth,,Vasupalli,Male
+Kollam,8.881131,76.584694,India,IN,Kerala,3.18127E+11,Vivek,,Vavilapalli,Male
+Kota,25.182544,75.839065,India,IN,Rajasthan,3.18127E+11,Dinesh,Thithy,Dinesh,Male
+Krishnanagar,23.405761,88.490733,India,IN,West Bengal,3.18127E+11,Sridevi,,Yamala,Female
+Krishnapuram,12.869617,79.719469,India,IN,Tamil Nadu ,3.18127E+11,Yarraju,Ajay,Yarraju,Male
+Kumbakonam,10.959789,79.377472,India,IN,Tamil Nadu ,3.18127E+11,Jaswanth,,Akula,Male
+Kurnool,15.828865,78.036021,India,IN,Andhra Pradesh,3.18127E+11,Harshini,Lakshmi Durga,Allada,Female
+Latur,18.399487,76.584252,India,IN,Maharashtra,3.18127E+11,Bharathi,Lakshmi,Baddi,Female
+Lucknow,26.839281,80.923133,India,IN,Uttar Pradesh,3.18127E+11,Madhu,Nitesh,Bandi,Male
+Ludhiana,30.912042,75.853789,India,IN,Punjab,3.18127E+11,Kavyasri,,Bantu,Female
+Machilipatnam,16.187466,81.13888,India,IN,Andhra Pradesh,3.18127E+11,Kamal,,Bathula,Male
+Madurai,9.917347,78.119622,India,IN,Tamil Nadu ,3.18127E+11,Prasanth,Kumar,Battula,Male
+Mahabubnagar,16.75,78,India,IN,Telangana,3.18127E+11,Sravanya,,Bendi,Female
+Malegaon Camp,20.569974,74.515415,India,IN,Maharashtra,3.18127E+11,Sri,Harsha,Boddeti,Male
+Mangalore,12.865371,74.842432,India,IN,Karnataka,3.18127E+11,Vidya,Vikas,Bonangi,Male
+Mathura,27.503501,77.672145,India,IN,Uttar Pradesh,3.18127E+11,Jyothi,Prakash,Boora,Male
+Meerut,28.980018,77.706356,India,IN,Uttar Pradesh,3.18127E+11,Devi Varaprasad,,Chittimoju,Male
+Mirzapur,25.144902,82.565335,India,IN,Uttar Pradesh,3.18127E+11,Viswamohan,,Dantuluri,Male
+Moradabad,28.838931,78.776838,India,IN,Uttar Pradesh,3.18127E+11,Divyanth,Ramnath,Darsi,Male
+Mumbai,18.987807,72.836447,India,IN,Maharashtra,3.18127E+11,Mohan Manikanta,Sai,Dasari,Male
+Muzaffarnagar,29.470914,77.703324,India,IN,Uttar Pradesh,3.18127E+11,Satyanarayana,Varma,Datla,Male
+Muzaffarpur,26.122593,85.390553,India,IN,Bihar,3.18127E+11,Sharvani,Venkata Konda,Emandi,Female
+Mysore,12.292664,76.638543,India,IN,Karnataka,3.18127E+11,Mourya,Prateek,Emandi,Male
+Nagercoil,8.177313,77.43437,India,IN,Tamil Nadu ,3.18127E+11,Kiran,Kumar,Ganeda,Male
+Nalgonda,17.05,79.27,India,IN,Telangana,3.18127E+11,Ganesh,Kumar,Alamuri,Male
+Nanded,19.160227,77.314971,India,IN,Maharashtra,3.18127E+11,Sri,Divya,Gorli,Female
+Nandyal,15.477994,78.483605,India,IN,Andhra Pradesh,3.18127E+11,Pavan,Kalyan,Guntuboina,Male
+Nasik,19.999963,73.776887,India,IN,Maharashtra,3.18127E+11,Anil,Kumar,Gushidi,Male
+Navsari,20.85,72.916667,India,IN,Gujarat,3.18127E+11,Varun,,Ippili,Male
+Nellore,14.449918,79.986967,India,IN,Andhra Pradesh,3.18127E+11,Geetanjali,,Kaibadi,Female
+New Delhi,28.6,77.2,India,IN,Delhi,3.18127E+11,Tharun,Tej,Kalla,Male
+Nizamabad,18.673151,78.10008,India,IN,Telangana,3.18127E+11,Satya Sai,Praveen,Kanta,Male
+Ongole,15.503565,80.044541,India,IN,Andhra Pradesh,3.18127E+11,Visalika,,Katru,Female
+Pali,25.775125,73.320611,India,IN,Rajasthan,3.18127E+11,Karthik,,Killari,Male
+Panaji,15.498289,73.824541,India,IN,Goa,3.18127E+11,Vandana,,Killari,Female
+Panchkula,30.691512,76.853736,India,IN,Haryana,3.18127E+11,Sindhu,Priya,Kolli,Female
+Panipat,29.387471,76.968246,India,IN,Haryana,3.18127E+11,Kingson,,Kommini,Male
+Parbhani,19.268553,76.770807,India,IN,Maharashtra,3.18127E+11,Yaswanth,Sai,Lalam,Male
+Pathankot,32.274842,75.652865,India,IN,Punjab,3.18127E+11,Vignesh,,Manyala,Male
+Patiala,30.336245,76.392199,India,IN,Punjab,3.18127E+11,Sumanth,,Motha,Male
+Patna,25.615379,85.101027,India,IN,Bihar,3.18127E+11,Pavan,,Nadakuditi,Male
+Pilibhit,28.631245,79.804362,India,IN,Uttar Pradesh,3.18127E+11,Nirupama,,Nagisetti,Female
+Porbandar,21.641346,69.600868,India,IN,Gujarat,3.18127E+11,Bala,Chandrashekhar,Naidu,Male
+Port Blair,11.666667,92.75,India,IN,Andaman and Nicobar Islands,3.18127E+11,Satya,Avinash,Nimmakayala,Male
+Proddatur,14.7502,78.548129,India,IN,Andhra Pradesh,3.18127E+11,Prathyusha,,Padmanabhuni,Female
+Puducherry,11.933812,79.829792,India,IN,Puducherry,3.18127E+11,Naga,Jyothi,Pasagadugula,Female
+Pune,18.513271,73.849852,India,IN,Maharashtra,3.18127E+11,Rohitha,,Polamarasetty,Female
+Puri,19.798254,85.824938,India,IN,Odisha,3.18127E+11,Manikanta,,Ponduri,Male
+Purnea,25.776703,87.473655,India,IN,Bihar,3.18127E+11,Krishna,Mohan,Pothana,Male
+Raichur,16.205459,77.35567,India,IN,Karnataka,3.18127E+11,Chiru,Kiran,Pyla,Male
+Raipur,21.233333,81.633333,India,IN,Chhattisgarh,3.18127E+11,Harsha,Priya,Racharla,Female
+Rajahmundry,17.005171,81.777839,India,IN,Andhra Pradesh,3.18127E+11,Sai,Sanjana,Rayaprolu,Female
+Rajapalaiyam,9.451111,77.556121,India,IN,Tamil Nadu ,3.18127E+11,Niraj,Kumar,Seela,Male
+Rajkot,22.291606,70.793217,India,IN,Gujarat,3.18127E+11,Sai,Charan,Gangu,Male
+Ramagundam,18.45,79.28,India,IN,Telangana,3.18127E+11,Ganesh,,Sanka,Male
+Rampura,26.884682,75.789336,India,IN,Rajasthan,3.18127E+11,Harika,,Savarapu,Female
+Ranchi,23.347768,85.338564,India,IN,Jharkhand,3.18127E+11,Sravani,,Seera,Female
+Ratlam,23.330331,75.040315,India,IN,Madhya Pradesh,3.18127E+11,Mahammad,Azharuddin,Shaik,Male
+Raurkela,22.224964,84.864143,India,IN,Odisha,3.18127E+11,Ranga Reddy,,Siddamreddy,Male
+Rohtak,28.894473,76.589166,India,IN,Haryana,3.18127E+11,Sai,Kiran,Toyaka,Male
+Saharanpur,29.967896,77.545221,India,IN,Uttar Pradesh,3.18127E+11,Sruthi,,Vayilada,Female
+Saidapur,27.598784,80.75089,India,IN,Uttar Pradesh,3.18127E+11,Mohan,Kumar,Veduruparthi,Male
+Saidpur,34.318174,74.457093,India,IN,Jammu and Kashmir,3.18127E+11,Satya Siva,Nagendra Prasad,Yelisetti,Male
+Salem,11.651165,78.158672,India,IN,Tamil Nadu ,318126510L08,Cheemalapati,Teja,Cheemalapati,Male
+Samlaipadar,21.478072,83.990505,India,IN,Odisha,319126510L01,Bhavana,,Pampana,Female
+Sangli,16.856777,74.569196,India,IN,Maharashtra,319126510L02,Venkata,Sai,Killada,Male
+Saugor,23.838766,78.738738,India,IN,Madhya Pradesh,319126510L03,Prasanna,Kavya,Matham,Female
+Shahbazpur,27.874116,79.879327,India,IN,Uttar Pradesh,319126510L04,Murali,,Vugiri,Male
+Shiliguri,26.710035,88.428512,India,IN,West Bengal,319126510L05,Arundathi,,Sambangi,Female
+Shillong ,25.573987,91.896807,India,IN,Meghalaya,319126510L06,Sesha Shai,Datta,Kolli,Male
+Shimla,31.104423,77.166623,India,IN,Himachal Pradesh,319126510L07,Hemalatha,,Siraparapu,Female
+Shimoga,13.932424,75.572555,India,IN,Karnataka,319126510L08,Shanmukhi,Devi,Guntreddi,Female
+Sikar,27.614778,75.138671,India,IN,Rajasthan,319126510L09,Praveen,,Gandreti,Male
+Silchar,24.827327,92.797868,India,IN,Assam,319126510L10,Bhargav,Srinivas,Pakiram,Male
+Silvassa,20.273855,72.996728,India,IN,Dadra and Nagar Haveli,319126510L11,Devi,,Kenguva,Female
+Sirsa,29.534893,75.028981,India,IN,Haryana,319126510L12,Hemanth,Kumar,Veesam,Male
+Sonipat,28.994778,77.019375,India,IN,Haryana,319126510L13,Amulya,Harika,Vempadapu,Female
+Srinagar,34.085652,74.805553,India,IN,Jammu and Kashmir,319126510L14,Chandrasekhar,Sivaji,Chintala,Male
+Surat,21.195944,72.830232,India,IN,Gujarat,319126510L15,Madu,Nagendra,Madu,Male
+Tezpur,26.633333,92.8,India,IN,Assam,319126510L16,Ananda,Rao,Nandigama,Male
+Thanjavur,10.785233,79.139093,India,IN,Tamil Nadu ,3.17127E+11,Charan,,Reddy,Male
